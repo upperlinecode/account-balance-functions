@@ -1,3 +1,5 @@
+### Check the README for additional information ###
+
 # 1. Create a notification method called getBalance() that takes an input of the balance and returns a message to the user.
 
 
