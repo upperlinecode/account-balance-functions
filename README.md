@@ -22,6 +22,9 @@ def getBalance(balance):
 ```python
 print(getBalance(300))
 # You now have $300 in your account.
+
+print(getBalance(615))
+# You now have $615 in your account.
 ```
 
 2) Create a deposit method called `makeDeposit()` that takes two inputs - the current `balance` and the deposit `amount` and returns the resulting account balance.
