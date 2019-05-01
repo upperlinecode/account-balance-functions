@@ -1,10 +1,12 @@
 ### Check the README for additional information ###
 
-# 1. Create a notification method called getBalance() that takes an input of the balance and returns a message to the user.
+# 1. Create a notification method called getBalance() that takes an input of the balance and returns a message to the user. 
+# Then call the function with two different balance values to ensure that it works properly.
 
 
 
 # 2. Create a deposit method called makeDeposit() that takes two inputs - the current balance and the deposit amount and returns the resulting account balance.
+# Call this function with two different deposits. 
 
 
 
